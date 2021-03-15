@@ -2,20 +2,17 @@
 
 Here are some ideas to get you started:
 
-
+<!--
 - 🔭 I’m currently working on Next.js
 - 🌱 I’m currently learning more technology for full stack developer
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- -->
 - 🥅 2021 Goals: Learn Node.js, Express.js, Angular
-
-
+- -->
 
 
 
